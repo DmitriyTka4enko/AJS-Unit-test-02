@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/teheu83o0m8cciv1?svg=true)](https://ci.appveyor.com/project/DmitriyTka4enko/ajs-unit-test-02)
